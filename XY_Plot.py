@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# Sample data (you can modify)
+
 x = [1, 2, 3, 4, 5]
 y = [10, 25, 30, 45, 50]
 

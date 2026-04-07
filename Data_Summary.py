@@ -8,10 +8,8 @@ data = {
 
 df = pd.DataFrame(data)
 
-# Summary
 print(df.describe())
 
-# Bar chart
 plt.bar(df["Category"], df["Values"])
 plt.title("Bar Chart")
 plt.xlabel("Category")
